@@ -3,14 +3,14 @@
     "contentPage": {
       "contentBody": [
         {
-          "id": "2969f8b2-321b-11ed-a324-67d202c49ba3",
+          "id": "ade73dc2-3232-11ed-a3ff-23eb5bf081b1",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "2969f8b0-321b-11ed-a324-67d202c49ba3",
+          "id": "ade73dc0-3232-11ed-a3ff-23eb5bf081b1",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -62,7 +62,7 @@
           }
         },
         {
-          "id": "2969f8b1-321b-11ed-a324-67d202c49ba3",
+          "id": "ade73dc1-3232-11ed-a3ff-23eb5bf081b1",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -92,14 +92,14 @@
           }
         },
         {
-          "id": "2969f8b3-321b-11ed-a324-67d202c49ba3",
+          "id": "ade73dc3-3232-11ed-a3ff-23eb5bf081b1",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "296a94f0-321b-11ed-a324-67d202c49ba3",
+          "id": "ade80110-3232-11ed-a3ff-23eb5bf081b1",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -118,7 +118,7 @@
             "filterName": "flags",
             "filterValue": "new",
             "products": {
-              "resultId": "ad9b24c5-b386-4387-a404-b4c60ca6c765",
+              "resultId": "d1bc947b-0073-4982-aec4-7aa24440f75a",
               "count": 40,
               "offset": 0,
               "total": 138,
@@ -1461,7 +1461,7 @@
                     "sku": "6393763",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": 4.4737,
+                      "rating": 4.4872,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
