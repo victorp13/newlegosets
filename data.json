@@ -3,14 +3,14 @@
     "contentPage": {
       "contentBody": [
         {
-          "id": "ade73dc2-3232-11ed-a3ff-23eb5bf081b1",
+          "id": "3a93b722-32fc-11ed-a3f2-95a3838cb272",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "ade73dc0-3232-11ed-a3ff-23eb5bf081b1",
+          "id": "3a93b720-32fc-11ed-a3f2-95a3838cb272",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -62,7 +62,7 @@
           }
         },
         {
-          "id": "ade73dc1-3232-11ed-a3ff-23eb5bf081b1",
+          "id": "3a93b721-32fc-11ed-a3f2-95a3838cb272",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -92,14 +92,14 @@
           }
         },
         {
-          "id": "ade73dc3-3232-11ed-a3ff-23eb5bf081b1",
+          "id": "3a93b723-32fc-11ed-a3f2-95a3838cb272",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "ade80110-3232-11ed-a3ff-23eb5bf081b1",
+          "id": "3a94efa0-32fc-11ed-a3f2-95a3838cb272",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -118,12 +118,404 @@
             "filterName": "flags",
             "filterValue": "new",
             "products": {
-              "resultId": "d1bc947b-0073-4982-aec4-7aa24440f75a",
+              "resultId": "336ec1dd-4ed6-41a3-a269-5106ff6f1c16",
               "count": 40,
               "offset": 0,
-              "total": 138,
+              "total": 148,
               "optimizelyExperiment": null,
               "results": [
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "fbc28193-ec94-4c82-abe6-84453537a97f",
+                  "productCode": "5007566",
+                  "name": "Banana Guy Plush",
+                  "slug": "banana-guy-plush-5007566",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltf66612be2868a7a9/5007566.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltf66612be2868a7a9/5007566.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6443320",
+                    "sku": "6443320",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "currencyCode": "EUR",
+                      "formattedValue": 21.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "0fc02200-f846-4add-a7f3-3e558f6d0d83",
+                  "productCode": "5007565",
+                  "name": "Hot Dog Guy Plush",
+                  "slug": "hot-dog-guy-plush-5007565",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltbc36cd9966e347e3/5007565.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltbc36cd9966e347e3/5007565.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6443319",
+                    "sku": "6443319",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "currencyCode": "EUR",
+                      "formattedValue": 21.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "a1bf48db-4bb7-4d7d-a547-7650f532bd3f",
+                  "productCode": "5007564",
+                  "name": "Kai",
+                  "slug": "kai-5007564",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt933b024b4ddb47ad/5007564.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt933b024b4ddb47ad/5007564.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6443317",
+                    "sku": "6443317",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€31,99",
+                      "centAmount": 3199,
+                      "currencyCode": "EUR",
+                      "formattedValue": 31.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€31,99",
+                      "centAmount": 3199,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "343850ff-f110-4300-acd1-521364d04313",
+                  "productCode": "5007557",
+                  "name": "Shark Suit Guy Plush",
+                  "slug": "shark-suit-guy-plush-5007557",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt3c9e757fac29c3bb/5007557.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt3c9e757fac29c3bb/5007557.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6442560",
+                    "sku": "6442560",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "currencyCode": "EUR",
+                      "formattedValue": 21.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "6f19d9b5-b945-4a61-8494-63c5d644be46",
+                  "productCode": "5007558",
+                  "name": "Fox Costume Girl Plush",
+                  "slug": "fox-costume-girl-plush-5007558",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt68579b05922cfbae/5007558.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt68579b05922cfbae/5007558.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6442561",
+                    "sku": "6442561",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "currencyCode": "EUR",
+                      "formattedValue": 21.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "064454ab-8b39-430d-a06a-d9142ecfea70",
+                  "productCode": "5007556",
+                  "name": "Lloyd",
+                  "slug": "lloyd-5007556",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt66ac912de9f61ad8/5007556.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt66ac912de9f61ad8/5007556.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6442559",
+                    "sku": "6442559",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€31,99",
+                      "centAmount": 3199,
+                      "currencyCode": "EUR",
+                      "formattedValue": 31.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€31,99",
+                      "centAmount": 3199,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "f71fa72b-4539-4a27-8366-12e92f00424e",
+                  "productCode": "5007555",
+                  "name": "Penguin Boy Plush",
+                  "slug": "penguin-boy-plush-5007555",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt1b60655c1709ff68/5007555.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt1b60655c1709ff68/5007555.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6442558",
+                    "sku": "6442558",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "currencyCode": "EUR",
+                      "formattedValue": 21.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€21,99",
+                      "centAmount": 2199,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "7eafc0b7-2ba2-4676-a566-646b92477ed5",
+                  "productCode": "5007544",
+                  "name": "Block Backpack – Citrus",
+                  "slug": "block-backpack-citrus-5007544",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltc4a31f595de0bf30/5007544.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltc4a31f595de0bf30/5007544.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6441418",
+                    "sku": "6441418",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€47,99",
+                      "centAmount": 4799,
+                      "currencyCode": "EUR",
+                      "formattedValue": 47.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€47,99",
+                      "centAmount": 4799,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
                 {
                   "__typename": "SingleVariantProduct",
                   "id": "a1bb7512-d1ad-4820-b30b-79e5547495cd",
@@ -1363,7 +1755,7 @@
                     "sku": "6395688",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": 4.25,
+                      "rating": 4.2857,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
@@ -1412,7 +1804,7 @@
                     "sku": "6395543",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": null,
+                      "rating": 3,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
@@ -1510,7 +1902,7 @@
                     "sku": "6393765",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": 4.6364,
+                      "rating": 4.6667,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
@@ -1691,418 +2083,6 @@
                     },
                     "__typename": "ProductVariant"
                   }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "1596a42f-1a7e-41d6-9f74-644a8fa9e94b",
-                  "productCode": "21335",
-                  "name": "Motorised Lighthouse",
-                  "slug": "motorised-lighthouse-21335",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltdcfa4924bc8abd0a/21335.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltdcfa4924bc8abd0a/21335.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6386349",
-                    "sku": "6386349",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 4.5217,
-                      "maxOrderQuantity": 3,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        },
-                        {
-                          "key": "exclusive",
-                          "label": "Exclusives",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€299,99",
-                      "centAmount": 29999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 299.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€299,99",
-                      "centAmount": 29999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "74cc1a84-8f8f-4be1-814c-df9c4674deae",
-                  "productCode": "76220",
-                  "name": "Batman™ versus Harley Quinn™",
-                  "slug": "batman-versus-harley-quinn-76220",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt9de6389ba9a98b99/76220.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt9de6389ba9a98b99/76220.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6385832",
-                    "sku": "6385832",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": null,
-                      "maxOrderQuantity": 5,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€14,99",
-                      "centAmount": 1499,
-                      "currencyCode": "EUR",
-                      "formattedValue": 14.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€14,99",
-                      "centAmount": 1499,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "25aad4ce-99d7-4663-b982-661b28bc440b",
-                  "productCode": "75338",
-                  "name": "Ambush on Ferrix™",
-                  "slug": "ambush-on-ferrix-75338",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt8f7d76d46c574679/75338.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt8f7d76d46c574679/75338.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6385818",
-                    "sku": "6385818",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 4.375,
-                      "maxOrderQuantity": 2,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€79,99",
-                      "centAmount": 7999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 79.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€79,99",
-                      "centAmount": 7999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "f3d5666a-fe62-4854-8201-5e30f153ddb1",
-                  "productCode": "40541",
-                  "name": "Manchester United Go Brick Me",
-                  "slug": "manchester-united-go-brick-me-40541",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt44a2a2ec01440357/40541.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt44a2a2ec01440357/40541.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6380200",
-                    "sku": "6380200",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": null,
-                      "maxOrderQuantity": 5,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€19,99",
-                      "centAmount": 1999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 19.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€19,99",
-                      "centAmount": 1999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "1130048b-a3a3-4627-bc26-e486c75a7f88",
-                  "productCode": "31207",
-                  "name": "Floral Art",
-                  "slug": "floral-art-31207",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/bltfb1d93050054b035/31207.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/bltfb1d93050054b035/31207.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6379838",
-                    "sku": "6379838",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 4.6667,
-                      "maxOrderQuantity": 3,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€69,99",
-                      "centAmount": 6999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 69.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€69,99",
-                      "centAmount": 6999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "df9de0fc-e76d-4cfc-b1d3-5e8d21fca0a8",
-                  "productCode": "10306",
-                  "name": "Atari® 2600",
-                  "slug": "atari-2600-10306",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt10c72e2ab2785ea4/10306.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt10c72e2ab2785ea4/10306.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6379786",
-                    "sku": "6379786",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 4.5652,
-                      "maxOrderQuantity": 3,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        },
-                        {
-                          "key": "exclusive",
-                          "label": "Exclusives",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€239,99",
-                      "centAmount": 23999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 239.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€239,99",
-                      "centAmount": 23999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "3e095890-7641-40b8-a555-ed3135b39d57",
-                  "productCode": "10305",
-                  "name": "Lion Knights' Castle",
-                  "slug": "lion-knights-castle-10305",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt0254ea3dce736ea0/10305.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt0254ea3dce736ea0/10305.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6379782",
-                    "sku": "6379782",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 4.82,
-                      "maxOrderQuantity": 3,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        },
-                        {
-                          "key": "exclusive",
-                          "label": "Exclusives",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€399,99",
-                      "centAmount": 39999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 399.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€399,99",
-                      "centAmount": 39999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "0bb0f923-3fdb-4f19-9f33-c88469f4cf19",
-                  "productCode": "10304",
-                  "name": "Chevrolet Camaro Z28",
-                  "slug": "chevrolet-camaro-z28-10304",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt729f7a96490ebf6f/10304.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt729f7a96490ebf6f/10304.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6379778",
-                    "sku": "6379778",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 4.6471,
-                      "maxOrderQuantity": 3,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        },
-                        {
-                          "key": "exclusive",
-                          "label": "Exclusives",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€169,99",
-                      "centAmount": 16999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 169.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€169,99",
-                      "centAmount": 16999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
                 }
               ],
               "facets": [
@@ -2125,7 +2105,7 @@
                       "displayMode": "TEXT",
                       "name": "Storage",
                       "labelKey": "STORAGE",
-                      "count": 30,
+                      "count": 32,
                       "value": "feb12d4e-4af1-48a3-8757-1a57476c1b61"
                     },
                     {
@@ -2139,6 +2119,14 @@
                     {
                       "__typename": "FacetValue",
                       "displayMode": "TEXT",
+                      "name": "Plush Toys",
+                      "labelKey": "plushtoys",
+                      "count": 13,
+                      "value": "2e1e03ce-c2b8-421f-81ea-a69f50d934c4"
+                    },
+                    {
+                      "__typename": "FacetValue",
+                      "displayMode": "TEXT",
                       "name": "Backpacks & lunch boxes",
                       "labelKey": "backpacksandlunchboxes",
                       "count": 8,
@@ -2147,17 +2135,9 @@
                     {
                       "__typename": "FacetValue",
                       "displayMode": "TEXT",
-                      "name": "Plush Toys",
-                      "labelKey": "plushtoys",
-                      "count": 6,
-                      "value": "2e1e03ce-c2b8-421f-81ea-a69f50d934c4"
-                    },
-                    {
-                      "__typename": "FacetValue",
-                      "displayMode": "TEXT",
                       "name": "Backpacks",
                       "labelKey": "backpacks",
-                      "count": 5,
+                      "count": 6,
                       "value": "fcc2cb35-e4b5-4303-92bb-cb1edc809965"
                     },
                     {
@@ -2254,7 +2234,7 @@
                       "displayMode": "TEXT",
                       "name": "€0 - €20",
                       "labelKey": "€0 - €20",
-                      "count": 51,
+                      "count": 53,
                       "from": 0,
                       "to": 2000
                     },
@@ -2263,7 +2243,7 @@
                       "displayMode": "TEXT",
                       "name": "€20 - €50",
                       "labelKey": "€20 - €50",
-                      "count": 58,
+                      "count": 66,
                       "from": 2000,
                       "to": 5000
                     },
@@ -2372,7 +2352,7 @@
                       "displayMode": "TEXT",
                       "name": "DUPLO®",
                       "labelKey": "duplo",
-                      "count": 3,
+                      "count": 4,
                       "value": "4a4493a4-3513-4fa1-888c-353da1437851"
                     },
                     {
@@ -2468,7 +2448,7 @@
                       "displayMode": "TEXT",
                       "name": "Minifigures",
                       "labelKey": "minifigures",
-                      "count": 6,
+                      "count": 11,
                       "value": "13afd5e3-4b4f-4ead-89a3-931b961565d2"
                     },
                     {
@@ -2476,7 +2456,7 @@
                       "displayMode": "TEXT",
                       "name": "NINJAGO®",
                       "labelKey": "ninjago",
-                      "count": 3,
+                      "count": 5,
                       "value": "008976a6-bf87-435c-89cc-87ea0b2ea63c"
                     },
                     {
@@ -2484,7 +2464,7 @@
                       "displayMode": "TEXT",
                       "name": "Other",
                       "labelKey": "other",
-                      "count": 53,
+                      "count": 55,
                       "value": "9fe455ac-be16-4348-81fe-ddd8261327c1"
                     },
                     {
@@ -2533,7 +2513,7 @@
                       "displayMode": "TEXT",
                       "name": "Animals",
                       "labelKey": "animals",
-                      "count": 4,
+                      "count": 8,
                       "value": "50b7a1a1-0159-400c-ba83-429a99f91a0f"
                     },
                     {
@@ -2629,7 +2609,7 @@
                       "displayMode": "TEXT",
                       "name": "Halloween",
                       "labelKey": "halloweenseasonal",
-                      "count": 4,
+                      "count": 6,
                       "value": "03468834-27d4-405e-9f10-cb16fef240a9"
                     },
                     {
@@ -2639,6 +2619,14 @@
                       "labelKey": "learntobuild",
                       "count": 2,
                       "value": "3f1cbac9-fa08-4e26-ac16-491d8dffe3b0"
+                    },
+                    {
+                      "__typename": "FacetValue",
+                      "displayMode": "TEXT",
+                      "name": "Ninjas",
+                      "labelKey": "ninjas",
+                      "count": 2,
+                      "value": "e6719986-4878-4977-b9fe-848c4dc26d54"
                     },
                     {
                       "__typename": "FacetValue",
@@ -2677,7 +2665,7 @@
                       "displayMode": "TEXT",
                       "name": "Seasonal",
                       "labelKey": "seasonal",
-                      "count": 13,
+                      "count": 15,
                       "value": "783e4181-78bb-4564-88bf-72afe7ce8ac2"
                     },
                     {
@@ -2766,7 +2754,7 @@
                       "displayMode": "TEXT",
                       "name": "1.5+",
                       "labelKey": "1.5+",
-                      "count": 13,
+                      "count": 22,
                       "value": "1.5+"
                     },
                     {
@@ -2774,7 +2762,7 @@
                       "displayMode": "TEXT",
                       "name": "4+",
                       "labelKey": "4+",
-                      "count": 47,
+                      "count": 54,
                       "value": "4+"
                     },
                     {
@@ -2782,7 +2770,7 @@
                       "displayMode": "TEXT",
                       "name": "6+",
                       "labelKey": "6+",
-                      "count": 95,
+                      "count": 98,
                       "value": "6+"
                     },
                     {
@@ -2823,7 +2811,7 @@
                       "displayMode": "TEXT",
                       "name": "Available Now",
                       "labelKey": "available",
-                      "count": 118,
+                      "count": 129,
                       "value": "\"E_AVAILABLE\""
                     },
                     {
@@ -2855,7 +2843,7 @@
                       "displayMode": "TEXT",
                       "name": "Back Order",
                       "labelKey": "backorder",
-                      "count": 1,
+                      "count": 0,
                       "value": "\"F_BACKORDER_FOR_DATE\",\"G_BACKORDER\""
                     },
                     {
