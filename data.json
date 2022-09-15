@@ -3,14 +3,46 @@
     "contentPage": {
       "contentBody": [
         {
-          "id": "35c59af2-33c5-11ed-a092-ed4694ac2a33",
+          "id": "e2dbf622-348e-11ed-b1c2-cfcebccf6e89",
           "multivariate": null,
-          "targeting": null,
+          "targeting": {
+            "fetchOnClient": false,
+            "__typename": "ContentContainerTargeting"
+          },
           "__typename": "ContentContainer",
-          "section": null
+          "section": {
+            "__typename": "StickyCTASection",
+            "id": "blt798aef9df405569c",
+            "layout": {
+              "width": "Standard",
+              "colors": {
+                "background": "",
+                "__typename": "ContentSectionLayoutColors"
+              },
+              "__typename": "ContentSectionLayout"
+            },
+            "layoutLegacy": {
+              "fullWidth": true,
+              "removePadding": true,
+              "__typename": "ContentSectionLayoutLegacy"
+            },
+            "item": {
+              "backgroundColor": "transparent",
+              "ctaBackgroundImage": "https://www.lego.com/cdn/cs/set/assets/blt226d7e0ebce604b0/Friends-2HY-Primary-PLP-202209-Sticky-CTA.png?format=png&height=80&dpr=1",
+              "ctaPosition": "Right",
+              "href": "/themes/friends?icmp=LP-SBT-Standard-FR_Sticky_B_Friends_Campaign_Key_Image-TH-FR-I5O3RENQTH",
+              "openInNewTab": false,
+              "text": "LEGO® Friends",
+              "textAlign": "Center",
+              "textContrast": "Light",
+              "effect": "none",
+              "delay": 0,
+              "__typename": "StickyCTAItem"
+            }
+          }
         },
         {
-          "id": "35c59af0-33c5-11ed-a092-ed4694ac2a33",
+          "id": "e2dbf620-348e-11ed-b1c2-cfcebccf6e89",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -62,7 +94,7 @@
           }
         },
         {
-          "id": "35c59af1-33c5-11ed-a092-ed4694ac2a33",
+          "id": "e2dbf621-348e-11ed-b1c2-cfcebccf6e89",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -92,19 +124,22 @@
           }
         },
         {
-          "id": "35c59af3-33c5-11ed-a092-ed4694ac2a33",
+          "id": "e2dbf623-348e-11ed-b1c2-cfcebccf6e89",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "35c6d370-33c5-11ed-a092-ed4694ac2a33",
+          "id": "e2dcb970-348e-11ed-b1c2-cfcebccf6e89",
           "multivariate": null,
-          "targeting": null,
+          "targeting": {
+            "fetchOnClient": false,
+            "__typename": "ContentContainerTargeting"
+          },
           "__typename": "ContentContainer",
           "section": {
-            "__typename": "BasicProductSection",
+            "__typename": "DisruptorProductSection",
             "id": "blt9495a15aac0c2092",
             "layout": {
               "width": "Standard",
@@ -117,9 +152,26 @@
             "removePadding": false,
             "filterName": "flags",
             "filterValue": "new",
+            "disruptor": {
+              "__typename": "Disruptor",
+              "imageSrc": {
+                "url": "https://www.lego.com/cdn/cs/set/assets/blta5ff4954d36c14b0/Friends-2HY-Primary-PLP-202209-Disruptor.jpg?fit=crop&format=jpg&quality=80&width=428&height=458&dpr=1",
+                "width": 428,
+                "height": 458,
+                "maxPixelDensity": 2,
+                "format": "jpg",
+                "__typename": "ImageAssetDetails"
+              },
+              "contrast": "Light",
+              "background": "#38134A",
+              "title": "Let kids follow their passion and make new friends along the way.",
+              "description": "New LEGO® Friends sets are here",
+              "link": "/themes/friends?icmp=LP-SHD-Standard-FR_Disruptor_Friends_Campaign_Key_Image-TH-FR-Q3HNYHCNIS",
+              "openInNewTab": false
+            },
             "products": {
-              "resultId": "94e23b55-6c02-4ffa-b76b-240da5bae931",
-              "count": 40,
+              "resultId": "d7020cdb-ccfc-4ace-b4bb-5cf492217725",
+              "count": 39,
               "offset": 0,
               "total": 148,
               "optimizelyExperiment": null,
@@ -873,7 +925,7 @@
                     "sku": "6434918",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": null,
+                      "rating": 5,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
@@ -2030,55 +2082,6 @@
                     "listPrice": {
                       "formattedAmount": "€49,99",
                       "centAmount": 4999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "b49a7ab9-bea3-4a40-82e7-363e13fe684a",
-                  "productCode": "71412",
-                  "name": "Big Bad Island Expansion Set",
-                  "slug": "big-bad-island-expansion-set-71412",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt70f5f0d3b089e1c3/71412.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt70f5f0d3b089e1c3/71412.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6392729",
-                    "sku": "6392729",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 5,
-                      "maxOrderQuantity": 5,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€44,99",
-                      "centAmount": 4499,
-                      "currencyCode": "EUR",
-                      "formattedValue": 44.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€44,99",
-                      "centAmount": 4499,
                       "__typename": "Price"
                     },
                     "__typename": "ProductVariant"
