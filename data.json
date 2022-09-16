@@ -3,46 +3,14 @@
     "contentPage": {
       "contentBody": [
         {
-          "id": "e2dbf622-348e-11ed-b1c2-cfcebccf6e89",
+          "id": "e977c1c0-3557-11ed-b92d-3da9fc076c4b",
           "multivariate": null,
-          "targeting": {
-            "fetchOnClient": false,
-            "__typename": "ContentContainerTargeting"
-          },
+          "targeting": null,
           "__typename": "ContentContainer",
-          "section": {
-            "__typename": "StickyCTASection",
-            "id": "blt798aef9df405569c",
-            "layout": {
-              "width": "Standard",
-              "colors": {
-                "background": "",
-                "__typename": "ContentSectionLayoutColors"
-              },
-              "__typename": "ContentSectionLayout"
-            },
-            "layoutLegacy": {
-              "fullWidth": true,
-              "removePadding": true,
-              "__typename": "ContentSectionLayoutLegacy"
-            },
-            "item": {
-              "backgroundColor": "transparent",
-              "ctaBackgroundImage": "https://www.lego.com/cdn/cs/set/assets/blt226d7e0ebce604b0/Friends-2HY-Primary-PLP-202209-Sticky-CTA.png?format=png&height=80&dpr=1",
-              "ctaPosition": "Right",
-              "href": "/themes/friends?icmp=LP-SBT-Standard-FR_Sticky_B_Friends_Campaign_Key_Image-TH-FR-I5O3RENQTH",
-              "openInNewTab": false,
-              "text": "LEGO® Friends",
-              "textAlign": "Center",
-              "textContrast": "Light",
-              "effect": "none",
-              "delay": 0,
-              "__typename": "StickyCTAItem"
-            }
-          }
+          "section": null
         },
         {
-          "id": "e2dbf620-348e-11ed-b1c2-cfcebccf6e89",
+          "id": "e9779ab0-3557-11ed-b92d-3da9fc076c4b",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -94,7 +62,7 @@
           }
         },
         {
-          "id": "e2dbf621-348e-11ed-b1c2-cfcebccf6e89",
+          "id": "e9779ab1-3557-11ed-b92d-3da9fc076c4b",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -124,14 +92,14 @@
           }
         },
         {
-          "id": "e2dbf623-348e-11ed-b1c2-cfcebccf6e89",
+          "id": "e977c1c1-3557-11ed-b92d-3da9fc076c4b",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "e2dcb970-348e-11ed-b1c2-cfcebccf6e89",
+          "id": "e978ac20-3557-11ed-b92d-3da9fc076c4b",
           "multivariate": null,
           "targeting": {
             "fetchOnClient": false,
@@ -155,7 +123,7 @@
             "disruptor": {
               "__typename": "Disruptor",
               "imageSrc": {
-                "url": "https://www.lego.com/cdn/cs/set/assets/blta5ff4954d36c14b0/Friends-2HY-Primary-PLP-202209-Disruptor.jpg?fit=crop&format=jpg&quality=80&width=428&height=458&dpr=1",
+                "url": "https://www.lego.com/cdn/cs/set/assets/bltb7427cc5cb29d583/40578-SandwichShop-202209-Home-Disruptor.jpg?fit=crop&format=jpg&quality=80&width=428&height=458&dpr=1",
                 "width": 428,
                 "height": 458,
                 "maxPixelDensity": 2,
@@ -163,17 +131,17 @@
                 "__typename": "ImageAssetDetails"
               },
               "contrast": "Light",
-              "background": "#38134A",
-              "title": "Let kids follow their passion and make new friends along the way.",
-              "description": "New LEGO® Friends sets are here",
-              "link": "/themes/friends?icmp=LP-SHD-Standard-FR_Disruptor_Friends_Campaign_Key_Image-TH-FR-Q3HNYHCNIS",
+              "background": "#003086",
+              "title": "City Sandwich Shop gift with LEGO® purchases over 90 €*",
+              "description": "16/09/22-30/09/22 or while stocks last.*",
+              "link": "/page/lego-offers-promotions?icmp=LP-SHD-Standard-NO_Disruptor_40578_Sandwich_Shop_GWP_APAC_EMEA-P-NO-UY4251ECCA",
               "openInNewTab": false
             },
             "products": {
-              "resultId": "d7020cdb-ccfc-4ace-b4bb-5cf492217725",
+              "resultId": "c3afefa1-63a1-42bf-bf52-6c25d6852ac1",
               "count": 39,
               "offset": 0,
-              "total": 148,
+              "total": 150,
               "optimizelyExperiment": null,
               "results": [
                 {
@@ -808,6 +776,104 @@
                     "listPrice": {
                       "formattedAmount": "€29,99",
                       "centAmount": 2999,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "97c0bd77-de3f-4aac-961e-b997db8d452e",
+                  "productCode": "5007462",
+                  "name": "Darth Vader™ Holiday Plush",
+                  "slug": "darth-vader-holiday-plush-5007462",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt0fcaa6c8e319b478/5007462.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt0fcaa6c8e319b478/5007462.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6435193",
+                    "sku": "6435193",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€35,99",
+                      "centAmount": 3599,
+                      "currencyCode": "EUR",
+                      "formattedValue": 35.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€35,99",
+                      "centAmount": 3599,
+                      "__typename": "Price"
+                    },
+                    "__typename": "ProductVariant"
+                  }
+                },
+                {
+                  "__typename": "SingleVariantProduct",
+                  "id": "4f530dc2-e9b7-447e-881a-13c39002f59f",
+                  "productCode": "5007464",
+                  "name": "Chewbacca™ Holiday Plush",
+                  "slug": "chewbacca-holiday-plush-5007464",
+                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt5da3d614bc21e724/5007464.jpg?fit=bounds&format=jpg&quality=80&width=320&height=320&dpr=1",
+                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt5da3d614bc21e724/5007464.jpg",
+                  "overrideUrl": null,
+                  "variant": {
+                    "id": "6435194",
+                    "sku": "6435194",
+                    "salePercentage": 0,
+                    "attributes": {
+                      "rating": null,
+                      "maxOrderQuantity": 5,
+                      "availabilityStatus": "E_AVAILABLE",
+                      "availabilityText": "Available now",
+                      "vipAvailabilityStatus": null,
+                      "vipAvailabilityText": null,
+                      "canAddToBag": true,
+                      "canAddToWishlist": true,
+                      "vipCanAddToBag": null,
+                      "onSale": false,
+                      "isNew": true,
+                      "featuredFlags": [
+                        {
+                          "key": "new",
+                          "label": "New",
+                          "__typename": "FeaturedFlags"
+                        }
+                      ],
+                      "__typename": "ProductAttributes"
+                    },
+                    "price": {
+                      "formattedAmount": "€35,99",
+                      "centAmount": 3599,
+                      "currencyCode": "EUR",
+                      "formattedValue": 35.99,
+                      "__typename": "Price"
+                    },
+                    "listPrice": {
+                      "formattedAmount": "€35,99",
+                      "centAmount": 3599,
                       "__typename": "Price"
                     },
                     "__typename": "ProductVariant"
@@ -1905,7 +1971,7 @@
                     "sku": "6393763",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": 4.4872,
+                      "rating": 4.45,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
@@ -1988,104 +2054,6 @@
                     },
                     "__typename": "ProductVariant"
                   }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "ac3b45b6-ea90-4d1b-a76a-e4095df32594",
-                  "productCode": "21189",
-                  "name": "The Skeleton Dungeon",
-                  "slug": "the-skeleton-dungeon-21189",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blta5a870dc192f3386/21189.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blta5a870dc192f3386/21189.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6393759",
-                    "sku": "6393759",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 5,
-                      "maxOrderQuantity": 5,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€29,99",
-                      "centAmount": 2999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 29.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€29,99",
-                      "centAmount": 2999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
-                },
-                {
-                  "__typename": "SingleVariantProduct",
-                  "id": "ed1ea876-3161-4da9-b60b-ffb2da36da4d",
-                  "productCode": "21190",
-                  "name": "The Abandoned Village",
-                  "slug": "the-abandoned-village-21190",
-                  "primaryImage": "https://www.lego.com/cdn/cs/set/assets/blt550c0941933d13c4/21190.png?fit=bounds&format=png&width=320&height=320&dpr=1",
-                  "baseImgUrl": "https://www.lego.com/cdn/cs/set/assets/blt550c0941933d13c4/21190.png",
-                  "overrideUrl": null,
-                  "variant": {
-                    "id": "6393761",
-                    "sku": "6393761",
-                    "salePercentage": 0,
-                    "attributes": {
-                      "rating": 4,
-                      "maxOrderQuantity": 5,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
-                      "vipAvailabilityStatus": null,
-                      "vipAvailabilityText": null,
-                      "canAddToBag": true,
-                      "canAddToWishlist": true,
-                      "vipCanAddToBag": null,
-                      "onSale": false,
-                      "isNew": true,
-                      "featuredFlags": [
-                        {
-                          "key": "new",
-                          "label": "New",
-                          "__typename": "FeaturedFlags"
-                        }
-                      ],
-                      "__typename": "ProductAttributes"
-                    },
-                    "price": {
-                      "formattedAmount": "€49,99",
-                      "centAmount": 4999,
-                      "currencyCode": "EUR",
-                      "formattedValue": 49.99,
-                      "__typename": "Price"
-                    },
-                    "listPrice": {
-                      "formattedAmount": "€49,99",
-                      "centAmount": 4999,
-                      "__typename": "Price"
-                    },
-                    "__typename": "ProductVariant"
-                  }
                 }
               ],
               "facets": [
@@ -2114,18 +2082,18 @@
                     {
                       "__typename": "FacetValue",
                       "displayMode": "TEXT",
-                      "name": "Home decor",
-                      "labelKey": "FOR_THE_HOME",
-                      "count": 14,
-                      "value": "b32cddff-52e5-4f22-a212-1dfb3fd31fbb"
+                      "name": "Plush Toys",
+                      "labelKey": "plushtoys",
+                      "count": 15,
+                      "value": "2e1e03ce-c2b8-421f-81ea-a69f50d934c4"
                     },
                     {
                       "__typename": "FacetValue",
                       "displayMode": "TEXT",
-                      "name": "Plush Toys",
-                      "labelKey": "plushtoys",
-                      "count": 13,
-                      "value": "2e1e03ce-c2b8-421f-81ea-a69f50d934c4"
+                      "name": "Home decor",
+                      "labelKey": "FOR_THE_HOME",
+                      "count": 14,
+                      "value": "b32cddff-52e5-4f22-a212-1dfb3fd31fbb"
                     },
                     {
                       "__typename": "FacetValue",
@@ -2246,7 +2214,7 @@
                       "displayMode": "TEXT",
                       "name": "€20 - €50",
                       "labelKey": "€20 - €50",
-                      "count": 66,
+                      "count": 68,
                       "from": 2000,
                       "to": 5000
                     },
@@ -2361,14 +2329,6 @@
                     {
                       "__typename": "FacetValue",
                       "displayMode": "TEXT",
-                      "name": "Electronic Learning Toys",
-                      "labelKey": "elearningtoys",
-                      "count": 1,
-                      "value": "63bc5755-daee-4808-8d3b-febfbc625baf"
-                    },
-                    {
-                      "__typename": "FacetValue",
-                      "displayMode": "TEXT",
                       "name": "Friends",
                       "labelKey": "friends",
                       "count": 2,
@@ -2393,14 +2353,6 @@
                     {
                       "__typename": "FacetValue",
                       "displayMode": "TEXT",
-                      "name": "Learning Toys",
-                      "labelKey": "learningtoys",
-                      "count": 1,
-                      "value": "196aa0fe-71ee-47b6-92d9-aef483959001"
-                    },
-                    {
-                      "__typename": "FacetValue",
-                      "displayMode": "TEXT",
                       "name": "LEGO® Avatar",
                       "labelKey": "avatar",
                       "count": 5,
@@ -2417,7 +2369,7 @@
                     {
                       "__typename": "FacetValue",
                       "displayMode": "TEXT",
-                      "name": "LEGO® ICONS™",
+                      "name": "LEGO® Icons™",
                       "labelKey": "legoicons",
                       "count": 4,
                       "value": "f35feee9-c7e3-4ad2-92d0-f84823685fe3"
@@ -2491,7 +2443,7 @@
                       "displayMode": "TEXT",
                       "name": "Star Wars™",
                       "labelKey": "starwars",
-                      "count": 11,
+                      "count": 13,
                       "value": "571ed551-f375-4b0b-925b-057aa50973f0"
                     },
                     {
@@ -2757,7 +2709,7 @@
                       "displayMode": "TEXT",
                       "name": "1.5+",
                       "labelKey": "1.5+",
-                      "count": 22,
+                      "count": 24,
                       "value": "1.5+"
                     },
                     {
@@ -2814,7 +2766,7 @@
                       "displayMode": "TEXT",
                       "name": "Available Now",
                       "labelKey": "available",
-                      "count": 128,
+                      "count": 130,
                       "value": "\"E_AVAILABLE\""
                     },
                     {
