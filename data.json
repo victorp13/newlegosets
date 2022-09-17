@@ -3,14 +3,14 @@
     "contentPage": {
       "contentBody": [
         {
-          "id": "e977c1c0-3557-11ed-b92d-3da9fc076c4b",
+          "id": "6bcd8d80-3620-11ed-9b92-7149402b014f",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "e9779ab0-3557-11ed-b92d-3da9fc076c4b",
+          "id": "6bcd6670-3620-11ed-9b92-7149402b014f",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -62,7 +62,7 @@
           }
         },
         {
-          "id": "e9779ab1-3557-11ed-b92d-3da9fc076c4b",
+          "id": "6bcd6671-3620-11ed-9b92-7149402b014f",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -92,14 +92,14 @@
           }
         },
         {
-          "id": "e977c1c1-3557-11ed-b92d-3da9fc076c4b",
+          "id": "6bcd8d81-3620-11ed-9b92-7149402b014f",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "e978ac20-3557-11ed-b92d-3da9fc076c4b",
+          "id": "6bd8b110-3620-11ed-9b92-7149402b014f",
           "multivariate": null,
           "targeting": {
             "fetchOnClient": false,
@@ -138,7 +138,7 @@
               "openInNewTab": false
             },
             "products": {
-              "resultId": "c3afefa1-63a1-42bf-bf52-6c25d6852ac1",
+              "resultId": "29beedc3-1e32-4f62-ba05-179c12cdc029",
               "count": 39,
               "offset": 0,
               "total": 150,
@@ -1971,7 +1971,7 @@
                     "sku": "6393763",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": 4.45,
+                      "rating": 4.4634,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
