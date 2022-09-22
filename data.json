@@ -3,14 +3,14 @@
     "contentPage": {
       "contentBody": [
         {
-          "id": "0e31c4b0-3946-11ed-819e-23c300216687",
+          "id": "9e546e82-3a0e-11ed-b2a8-5bac6f441c6c",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "0e319da0-3946-11ed-819e-23c300216687",
+          "id": "9e546e80-3a0e-11ed-b2a8-5bac6f441c6c",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -62,7 +62,7 @@
           }
         },
         {
-          "id": "0e319da1-3946-11ed-819e-23c300216687",
+          "id": "9e546e81-3a0e-11ed-b2a8-5bac6f441c6c",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
@@ -92,14 +92,14 @@
           }
         },
         {
-          "id": "0e31ebc0-3946-11ed-819e-23c300216687",
+          "id": "9e54bca0-3a0e-11ed-b2a8-5bac6f441c6c",
           "multivariate": null,
           "targeting": null,
           "__typename": "ContentContainer",
           "section": null
         },
         {
-          "id": "0e32d620-3946-11ed-819e-23c300216687",
+          "id": "9e55a700-3a0e-11ed-b2a8-5bac6f441c6c",
           "multivariate": null,
           "targeting": {
             "fetchOnClient": false,
@@ -138,7 +138,7 @@
               "openInNewTab": false
             },
             "products": {
-              "resultId": "123d6300-1487-4a6d-8f1e-b5d97365a597",
+              "resultId": "bc7e037f-e2de-4d48-a0a0-d586b27bfa03",
               "count": 39,
               "offset": 0,
               "total": 150,
@@ -1483,11 +1483,11 @@
                     "attributes": {
                       "rating": 4.9167,
                       "maxOrderQuantity": 5,
-                      "availabilityStatus": "E_AVAILABLE",
-                      "availabilityText": "Available now",
+                      "availabilityStatus": "H_OUT_OF_STOCK",
+                      "availabilityText": "Temporarily out of stock",
                       "vipAvailabilityStatus": null,
                       "vipAvailabilityText": null,
-                      "canAddToBag": true,
+                      "canAddToBag": false,
                       "canAddToWishlist": true,
                       "vipCanAddToBag": null,
                       "onSale": false,
@@ -1922,7 +1922,7 @@
                     "sku": "6395543",
                     "salePercentage": 0,
                     "attributes": {
-                      "rating": 3,
+                      "rating": 2.6667,
                       "maxOrderQuantity": 5,
                       "availabilityStatus": "E_AVAILABLE",
                       "availabilityText": "Available now",
@@ -2766,7 +2766,7 @@
                       "displayMode": "TEXT",
                       "name": "Available Now",
                       "labelKey": "available",
-                      "count": 126,
+                      "count": 125,
                       "value": "\"E_AVAILABLE\""
                     },
                     {
@@ -2774,7 +2774,7 @@
                       "displayMode": "TEXT",
                       "name": "Out of Stock",
                       "labelKey": "out_of_stock",
-                      "count": 12,
+                      "count": 13,
                       "value": "\"H_OUT_OF_STOCK\",\"K_SOLD_OUT\",\"L_READ_ONLY\""
                     },
                     {
